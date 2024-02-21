@@ -1,6 +1,7 @@
 # Blog Website
 
 This is a simple blog website with separate frontend and backend components. The frontend is built using React and Vite, while the backend is powered by Node.js and Express, with data stored in MongoDB using Mongoose.
+![image](https://github.com/madhavgupta07/MadhavBlog/assets/72290706/d14e6432-c7e4-4937-87fe-6fdb76abc2b1)
 
 ## Frontend
 
